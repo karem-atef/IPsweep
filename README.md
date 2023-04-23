@@ -2,5 +2,5 @@
 an ip sweep script
 
 
-##Usage 
+# Usage : 
 ./ipsweep.sh 192.168.4
